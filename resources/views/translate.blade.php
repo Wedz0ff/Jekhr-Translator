@@ -48,8 +48,8 @@
             </div>   
         </section>  
     </main>
-    <div align="center">Do you want to know more about deepling language a.k.a Jekhr? Pay a visit to <a href="https://tibia.fandom.com/wiki/Jekhr" target="_blank">TibiaWiki.</a></div>
-    <div align="center">This experimental tool was created by Wed.<br>Feel free to contribute on GitHub.</div>
+    <div align="center">Do you want to know more about deepling language a.k.a Jekhr? Pay a visit to <a href="https://tibia.fandom.com/wiki/Jekhr" target="_blank">TibiaWiki</a></div>
+    <div align="center">This experimental tool was created by Wed.<br>Feel free to contribute on <a href="https://github.com/Wedz0ff/Jekhr-Translator" target="_blank">GitHub</a>.</div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
