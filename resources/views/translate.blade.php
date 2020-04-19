@@ -27,7 +27,7 @@
                     <img src="/assets/img/jaul.gif">
                     <h3>Translator</h3>
                 </div>
-            <form id="translate" action="{{ route('translate') }}" method="GET">
+            <form id="translate" action="translate" method="GET">
                 <div class="form-group"><label for="from" name="from">Translate from</label><select class="form-control" id="from" name="method"><option value="latin" selected="selected">Latin alphabet</option><option value="deepling">Jekhr</option></select></div>
                 <div class="form-group"><label for="text" name="text">Message</label><textarea class="form-control" id="text" name="text"></textarea></div>
                 <div class="form-group"><div class="form-row"></div></div>
